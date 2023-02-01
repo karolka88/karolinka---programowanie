@@ -1,0 +1,17 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.guides.indentation": false,
+    "workbench.editor.untitled.hint": "hidden",
+    "codeQL.telemetry.enableTelemetry": false,
+    "explorer.confirmDelete": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "git.confirmSync": false,
+    "remoteHub.commitDirectlyWarning": "off",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiGreen",
+    "workbench.colorCustomizations": {
+    "terminal.dropBackground": "#f700ff"
+    }
+}
